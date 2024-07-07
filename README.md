@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kabilansrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabilansrk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kabilan srk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilan srk" height="30" width="40" /></a>
-<a href="https://instagram.com/kabilan srk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabilan srk" height="30" width="40" /></a>
+<a href="https://x.com/KABILAN_SRK?t=wdBcwrWDVk5WNe5bv6cXig&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabilansrk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kabilan srkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabilan srk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.kabilan._srk?igsh=MXN1NGtqZjh4bnQxcw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabilan srk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
