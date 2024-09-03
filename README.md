@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/KABILANSRK/portfolio.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/KABILANSRK](https://github.com/KABILANSRK)
+- 👨‍💻 All of my projects are available at [KABILANSRK](https://github.com/KABILANSRK)
 
 - 📫 How to reach me **kabilans.26csb@licet.ac.in**
 
