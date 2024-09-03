@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabilansrk" alt="kabilansrk" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/KABILANSRK/portfolio.git)
+- 🔭 I’m currently working on [Portfolio](https://github.com/KABILANSRK/personal_portfolio.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KABILANSRK](https://github.com/KABILANSRK)
 
