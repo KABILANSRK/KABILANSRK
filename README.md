@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [kabilansrk.verce.app](kabilansrk.vercel.app)
-
 - 💬 Ask me about **HTML,CSS,JS,C,JAVA**
 
 - 📫 How to reach me **kabilans.26csb@licet.ac.in**
