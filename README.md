@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **HTML,CSS,JS,C,JAVA**
+- 💬 Ask me about **HTML,CSS,JS,C,JAVA,REACT**
 
 - 📫 How to reach me **kabilans.26csb@licet.ac.in**
 
