@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kabilans.26csb@licet.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KjkhDBOwiyGH8MmlwPTVBEnaKx_sNGYb/view?usp=drive_link](https://drive.google.com/file/d/1KjkhDBOwiyGH8MmlwPTVBEnaKx_sNGYb/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KjkhDBOwiyGH8MmlwPTVBEnaKx_sNGYb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
