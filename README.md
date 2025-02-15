@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabilansrk" alt="kabilansrk" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithms](https://github.com/KABILANSRK/Algorithms.git)
+- 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently learning **Algorithms**
+- 📝 I regularly write articles on [Medium](https://kabilansrk.medium.com/)
 
-- 👨‍💻 All of my projects are available at [kabilansrk.vercel.app](kabilansrk.vercel.app)
-
-- 📝 I regularly write articles on [https://kabilansrk.medium.com/](https://kabilansrk.medium.com/)
-
-- 💬 Ask me about **React,Java,C,JavaScript**
+- 💬 Ask me about **React,Java,C,JavaScript,HTML,CSS**
 
 - 📫 How to reach me **kabilans.26csb@licet.ac.in**
 
